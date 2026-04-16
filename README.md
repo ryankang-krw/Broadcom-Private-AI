@@ -1,4 +1,4 @@
-# Broadcom-Private-AI Guide
+# Broadcom-Private-AI Deploy Guide
 by RyanKang, AWY
 
 VCF 9.0.2
