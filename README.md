@@ -1,5 +1,6 @@
 # Broadcom-Private-AI Guide
-                            by RyanKang,awy
+by RyanKang, AWY
+
 VCF 9.0.2
 
 PAIS 2.1
