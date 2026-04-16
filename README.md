@@ -1,4 +1,4 @@
-# Broadcom-Private-AI Guide by Ryan Kang,awy
+# Broadcom-Private-AI Guide by RyanKang,awy
 
 VCF 9.0.2
 
